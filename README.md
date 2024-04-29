@@ -14,3 +14,10 @@ This is an Android quiz application that allows users to take quizzes on various
 - Presents multiple-choice questions to the user.
 - Tracks user-selected answers and provides feedback on correctness.
 - Displays quiz results at the end of the quiz.
+- Includes a timer to limit the duration of the quiz.
+
+### Screenshots
+
+![Main Activity](https://github.com/Georgia04/QuizApp/assets/60743148/a67212bc-c42f-447c-bbb6-5fb36617197b)
+
+![Quiz Activity](https://github.com/Georgia04/QuizApp/assets/60743148/7263d2ea-b136-454a-be86-5b1505098eba)
