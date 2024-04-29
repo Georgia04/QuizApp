@@ -18,6 +18,4 @@ This is an Android quiz application that allows users to take quizzes on various
 
 ### Screenshots
 
-![Main Activity](https://github.com/Georgia04/QuizApp/assets/60743148/a67212bc-c42f-447c-bbb6-5fb36617197b)
-
-![Quiz Activity](https://github.com/Georgia04/QuizApp/assets/60743148/7263d2ea-b136-454a-be86-5b1505098eba)
+![Main Activity](https://github.com/Georgia04/QuizApp/assets/60743148/a67212bc-c42f-447c-bbb6-5fb36617197b) ![Quiz Activity](https://github.com/Georgia04/QuizApp/assets/60743148/7263d2ea-b136-454a-be86-5b1505098eba)
